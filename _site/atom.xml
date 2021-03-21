@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>late night ramblings</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2021-03-22T03:22:38+08:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>First Post</title>
+   <link href="http://localhost:4000/2021/03/22/first-post/"/>
+   <updated>2021-03-22T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2021/03/22/first-post</id>
+   <content type="html">&lt;p&gt;I dont know the reason for making this blog. Was it because it’s 2 AM and I dont know what else to do? Is it because I got a dopamine hit from reading an article whose title says &lt;a href=&quot;https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing&quot;&gt;Don’t End The Week With Nothing&lt;/a&gt;? Is it because I didnt feel proud of the past week and want to start this new week with a bang? Whichever the case, let’s see where this blog goes.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

@@ -1,0 +1,37 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               'late night ramblings'
+url:                 
+tagline:             the oftentimes mundane things I think about at the end of the day
+paginate:            1000
+paginate_path:       "/page:num/"
+baseurl:             ""
+
+# Includes
+include:
+  - _redirects
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              
+  url:               
+  email:             
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:              
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-gist

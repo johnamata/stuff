@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>
+    
+      First Post &middot; late night ramblings
+    
+  </title>
+  
+    <meta name="description" content="Some stuff I'm thinking about">
+  
+
+  <link rel="stylesheet" href="/styles.css">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.png">
+  <link rel="alternate" type="application/atom+xml" title="late night ramblings" href="/atom.xml">
+</head>
+
+
+  <body class="individual-post">
+
+    <div class="masthead-container">
+    <header role="banner">
+        <p><strong>late night ramblings</strong> <br> the oftentimes mundane things I think about at the end of the day</p>
+        <nav role="navigation">
+  <ul>
+    <li><a href="/" title="Home">Home</a></li>
+    <li><a href="/about" title="About">About</a></li>
+    <li><a href="/archives" title="Archives">Archives</a></li>
+  </ul>
+</nav>
+
+    </header>
+</div>
+
+
+    <div class="container content">
+
+      <main id="main" role="main">
+        <a href="javascript:" id="return-to-top" class="return-to-top">
+            <span>&UpArrow;</span>
+            <span>Scroll back to the top</span>
+        </a>
+        <article class="post" role="article">
+          <h1 class="post-title">First Post</h1>
+          <span class="post-date">
+            <time datetime="2021-03-22T00:00:00+08:00">March</time>
+            <time class="date-day" datetime="2021-03-22T00:00:00+08:00">22</time>
+            <time datetime="2021-03-22T00:00:00+08:00">2021</time>
+          </span>
+          <p>I dont know the reason for making this blog. Was it because it’s 2 AM and I dont know what else to do? Is it because I got a dopamine hit from reading an article whose title says <a href="https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing">Don’t End The Week With Nothing</a>? Is it because I didnt feel proud of the past week and want to start this new week with a bang? Whichever the case, let’s see where this blog goes.</p>
+
+          <hr>
+        </article>
+      </main>
+
+    </div>
+
+    <footer class="footer" role="contentinfo">
+  <small>
+    <!-- john patrick amata -->
+    </small>
+</footer>
+
+<script src="//instant.page/1.2.2" type="module" integrity="sha384-2xV8M5griQmzyiY3CDqh1dn4z3llDVqZDqzjzcY+jCBCk/a5fXJmuZ/40JJAPeoU"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+    $(window).scroll(function() {
+        if ($(this).scrollTop() >= 50) {        // If page is scrolled more than 50px
+            $('#return-to-top').fadeIn(300);    // Fade in the arrow
+        } else {
+            $('#return-to-top').fadeOut(300);   // Else fade out the arrow
+        }
+    });
+    $('#return-to-top').click(function() {      // When arrow is clicked
+        $('body,html').animate({
+            scrollTop : 0                       // Scroll to top of body
+        }, 500);
+    });
+</script>
+
+
+  </body>
+</html>
