@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-<big><strong>Hello!</strong></big> I'm John, but some of my friends call me either Ice or JP.
+the oftentimes *mundane* things I think about at the end of the day
 
-
+by John Patrick Amata

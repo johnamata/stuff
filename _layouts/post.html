@@ -1,34 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: default
+---
 
-  {% include head.html %}
+<article class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">{{ page.date | date_to_string }}</time>
+  {{ content }}
+</article>
 
-  <body class="individual-post">
-
-    {% include masthead.html %}
-
-    <div class="container content">
-
-      <main id="main" role="main">
-        <a href="javascript:" id="return-to-top" class="return-to-top">
-            <span>&UpArrow;</span>
-            <span>Scroll back to the top</span>
+{% if site.related_posts != empty %}
+<aside class="related">
+  <h3>Related posts</h3>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          {{ post.title }}
+          <small><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time></small>
         </a>
-        <article class="post" role="article">
-          <h1 class="post-title">{{ page.title }}</h1>
-          <span class="post-date">
-            <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B" }}</time>
-            <time class="date-day" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d" }}</time>
-            <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y" }}</time>
-          </span>
-          {{ content }}
-          <hr>
-        </article>
-      </main>
-
-    </div>
-
-    {% include footer.html %}
-
-  </body>
-</html>
+      </li>
+    {% endfor %}
+  </ul>
+</aside>
+{% endif %}

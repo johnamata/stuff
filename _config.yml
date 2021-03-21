@@ -1,37 +1,48 @@
-# Permalinks
-permalink:           pretty
-
 # Setup
-title:               'late night ramblings'
-url:                 
-tagline:             the oftentimes mundane things I think about at the end of the day
-paginate:            1000
-paginate_path:       "/page:num/"
-baseurl:             ""
+title: stuff
+url: 
+paginate: 1
+baseurl: ""
+permalink: pretty
 
-# Includes
-include:
-  - _redirects
+# Gems
+plugins:
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-seo-tag
 
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+  sass_dir: _sass
+  style: :compressed
 
-# About/contact
+# Options
+
+# Replace this value and uncomment to enable Google Analytics tracking
+# ga_analytics: UA-000000-0
+
+# Specify the author for blog posts
 author:
-  name:              
-  url:               
-  email:             
+  name: John
+  url: https://instagram.com/jpamata
+  email: 
 
 # Custom vars
-version:             1.0.0
-github:
-  repo:              
+version: 3.0.0
 
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-gist
+# Navbar page list
+nav:
+  - title: Blog
+    url: /archive
+
+  - title: About
+    url: /about
