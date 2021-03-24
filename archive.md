@@ -12,7 +12,7 @@ Browse all posts by month and year.
   <h2>{{ yearMonth.name }}</h2>
   <ul>
     {% for post in yearMonth.items %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li>{{ post.date | date:"%Y-%m-%d" }} <a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
