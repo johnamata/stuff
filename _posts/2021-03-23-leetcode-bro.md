@@ -21,6 +21,6 @@ I definitely place eating burgers over mindless leetcoding
 
 <img src="https://lh3.googleusercontent.com/pw/ACtC-3deyoI3Fxy9I_n8ZSDcevMay6WkiNlce2uY4cKtl-9T3Tyem7_tHDAnvAaTtAkE-2_1z9axAnOt5pVOpevnV24oboHlwHMAYoYemQCEvn0y-kfQrB246sgExIYFLHMerIN20VXe5qLv5ysQvuz3f_Tz=w1600-h1200-no?authuser=0">
 
-Unfortunately the branch wasnt letting people dine there and only does take out orders. It's because of coronachan. The new african strain put fear bck into the hearts of the people, thanks mostly to the usual propagandic fearmongering by the media. Well, at least the media isnt still 1984 here in the Philippines compared to say, CNN, twitter, and washington post in the US/west.
+Unfortunately the branch wasnt letting people dine there and only does take out orders. It's because of coronachan. The new african strain put fear bck into the hearts of the people (rightly so), thanks mostly to the usual propagandic fearmongering by the media. Well, at least the media isnt 1984 here in the Philippines compared to say, platforms like twitter and outlets like CNN and washington post in the US/west.
 
 That thought made me enjoy my whopper jr and a bag of onion rings at home
