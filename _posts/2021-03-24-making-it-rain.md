@@ -7,9 +7,11 @@ summary: march 24, 2021 is productive
 
 Today is a productive day. 
 
-Made some good gains today with CTSI. Made ~<a href="https://www.investopedia.com/ask/answers/how-do-you-calculate-percentage-gain-or-loss-investment/">50% profit</a> on a 2 day trade. Entered at BTC 0.000005 around march 22 and exited at around BTC 0.000008 this noon. Just got em out and poured it all to BAT, entering at $1.08. Risky but fuck it, benefits of being (I wish) early adopters. 
+Made some good gains today with <a href="https://coinmarketcap.com/currencies/cartesi/">CTSI</a>. Made ~<a href="https://www.investopedia.com/ask/answers/how-do-you-calculate-percentage-gain-or-loss-investment/">50% profit</a> on a 2 day trade. Entered at BTC 0.000005 around march 22 and exited at around BTC 0.000008 this noon. Was fluctuating at 7-8 at binance for about 10 minutes I think. Turns out I actually exited near the peak for this day. Got em out and poured it all to <a href="https://coinmarketcap.com/currencies/basic-attention-token/">BAT</a>, entering at $1.08. Risky but fuck it, benefits of being (I wish) early adopters. 
 
-Photo below is a pic of me contemplating about trading my shit buy bitcoin/usdt again and swing some. But I declined as I dont want to be to monitor too many crap on my portfolio. Not really sure if I should keep trading crypto, but bull market is here for the meantime and I'm feeling good like it's 2016-2017 again. Quite a shame i didnt mine some more bitcoin in 2013. BUt then again, my friend (Mico Baronia, a fellow CS student) who introduced me to bitcoin in 2013, quit his mining early and later sold out all his bitcoin when 1 bitcoin jumped to PHP 20k (that's $400 in today's PHP-USD exchange) and never bought any shit again.
+Photo below is my POV on my mac as I contemplate about getting more bitcoin/usdt to buy CTSI again for swinging later. But I eventually declined as I dont want to monitor too many crap on my portfolio.
+
+Not really sure if I should keep trading crypto, but bull market is here for the meantime and I'm feeling good like it's 2016-2017 again. Quite a shame i didnt mine some more bitcoin in 2013. BUt then again, my friend (Mico Baronia, a fellow CS student) who introduced me to bitcoin in late 2013, quit his mining early and later sold out all his bitcoin when 1 bitcoin jumped to PHP 20k (that's $400 in today's PHP-USD exchange) and never bought any shit again.
 
 <img src="https://lh3.googleusercontent.com/pw/ACtC-3cfhKZrVBkFaYzLe3qYnF_tK84TVSVNdflFi6QvCY78hcE-gRAiyNDh-uKNAAxH5jIxo0CGd-BfdtbfRjjI01g-S1wpU0t6yu1Z-3h-NvzGEn4qytroT1B7XjhhzJ6lQ1RkyQ3R5pKybWPLYgVqlNlV=w939-h700-no?authuser=0">
 
@@ -19,7 +21,7 @@ I think it's not too late to get into crypto. I only started in crypto late in 2
 
 I even thought about learning blockchain development and enrolled in a couple udemy courses, one of which was stephen grider's <a href="https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/">Ethereum and Solidity: The Complete Developer's Guide</a>.
 
-I later learned that solidity dApp crap is pretty basic, and that the bulk of a blockchain dev's skills should be about building for consensus (at least at the time, i dont know about it now), and to git gud at C++ (at leas at the time.
+I later learned that solidity dApp crap is pretty basic, and that the bulk of a blockchain dev's skills should generally be about building for consensus (at least at the time, i dont know if it's true now), and to git gud at C++ (at least at the time, again not sure now, I think it's all just JS and golang magic nowadays).
 
 I didnt follow that career after I graduated in 2018. I took a break from pretty much anything to travel for a year and think about what i want next in life. Anyways, what happened next is a long story that probably warrants to be published in my private blogs or in my more "polished" blogs.
 
